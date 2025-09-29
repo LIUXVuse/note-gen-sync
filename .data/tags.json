@@ -7,18 +7,11 @@
     "total": 0
   },
   {
-    "id": 3,
-    "name": "定錨",
-    "isLocked": 0,
-    "isPin": 0,
-    "total": 1
-  },
-  {
     "id": 4,
     "name": "定錨周報",
     "isLocked": 0,
     "isPin": 0,
-    "total": 1
+    "total": 4
   },
   {
     "id": 5,
@@ -33,5 +26,12 @@
     "isLocked": 0,
     "isPin": 0,
     "total": 5
+  },
+  {
+    "id": 7,
+    "name": "定錨報告",
+    "isLocked": 0,
+    "isPin": 0,
+    "total": 7
   }
 ]
